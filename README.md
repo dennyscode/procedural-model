@@ -1,5 +1,5 @@
 Live-Demo to be found here:
-[Click to see demo on Heroku](https://carshow-3rf.herokuapp.com/)
+[Click to see demo on Github-Pages](https://dennyscode.github.io/procedural-model/)
 
 Credits to "Irradiance" for making this tutorial.
 Tutorial consists of four parts:
